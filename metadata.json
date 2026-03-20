@@ -1,0 +1,5 @@
+{
+  "name": "CT TV Host",
+  "description": "A TV Host application based on mrmegatronix/_ct-tvhost",
+  "requestFramePermissions": []
+}
